@@ -1,0 +1,13 @@
+{
+  "name": "aguacate-css-html",
+  "version": "1.0.0",
+  "description": "Aguacate hecho con CSS y HTML",
+  "scripts": {
+    "start": "live-server ./ " 
+  },
+  "author": "danielrodriguezg16",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
